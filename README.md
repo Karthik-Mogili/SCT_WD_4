@@ -2,14 +2,14 @@
 
 ## SkillCraft Technology – Web Development Task 04
 
-### 📌 Project Description
+###  Project Description
 This project is an interactive To-Do Web Application developed using HTML, CSS, and JavaScript. The application allows users to manage daily tasks efficiently by adding, editing, deleting, and marking tasks as completed.
 
 The application also supports date and time scheduling and stores data using browser LocalStorage to maintain tasks even after refreshing the page.
 
 ---
 
-### 🚀 Features
+### Features
 - Add new tasks
 - Edit existing tasks
 - Delete tasks
@@ -20,14 +20,14 @@ The application also supports date and time scheduling and stores data using bro
 
 ---
 
-### 🛠 Technologies Used
+### Technologies Used
 - HTML
 - CSS
 - JavaScript
 
 ---
 
-### 📂 Project Structure
+###  Project Structure
 SCT_WD_4/  
 │── index.html  
 │── style.css  
@@ -35,7 +35,7 @@ SCT_WD_4/
 
 ---
 
-### ▶ How to Run
+###  How to Run
 1. Download or clone the repository.
 2. Open `index.html` in any web browser.
 3. Add a task with optional date and time.
@@ -45,14 +45,15 @@ SCT_WD_4/
 
 ---
 
-### 🌐 Live Demo
+###  Live Demo
 (Add your GitHub Pages live link here after enabling it)
 
 ---
 
-### 📱 Responsive Design
+###  Responsive Design
 The application is designed to adapt to different screen sizes including desktop and mobile devices.
 
 ---
+
 
 Developed as part of SkillCraft Technology Internship.
